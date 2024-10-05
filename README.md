@@ -18,3 +18,5 @@ popular songs can also provide insights into the prevalence of solo artists vers
 collaborations in the music industry. By addressing these questions, we aim to
 understand the dynamics of music consumption in 2023 and identify the factors that
 contribute to a track's success on various streaming services.
+
+Solution R file and .pdf file has been uploaded.
